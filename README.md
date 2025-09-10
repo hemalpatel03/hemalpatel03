@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hemal Patel</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer + Software QA Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemalpatel03&label=Profile%20views&color=0e75b6&style=flat" alt="hemalpatel03" /> </p>
 
-- 🌱 I’m currently learning ****backend development****
+- 🌱 I’m currently learning ****backend development + Tester****
 
-- 👯 I’m looking to collaborate on ****node.js projects****
+- 👯 I’m looking to collaborate on ****QA Testing****
 
-- 🤝 I’m looking for help with ****node.js****
+- 🤝 I’m looking for help with ****Manual Testing****
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemalpatel03?tab=repositories](https://github.com/hemalpatel03?tab=repositories)
 
-- 💬 Ask me about ****backend developer****
+- 💬 Ask me about ****QA Manual Tester****
 
 - 📫 How to reach me ****hemalpatel2394@gmail.com****
 
