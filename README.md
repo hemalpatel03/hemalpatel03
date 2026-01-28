@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on ****QA Testing****
 
-- 🤝 I’m looking for help with ****Manual Testing****
+- 🤝 I’m looking for help with ****Manual + Automation Testing****
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemalpatel03?tab=repositories](https://github.com/hemalpatel03?tab=repositories)
 
-- 💬 Ask me about ****QA Manual Tester****
+- 💬 Ask me about ****QA Manual + Aitomation Tester****
 
 - 📫 How to reach me ****hemalpatel2394@gmail.com****
 
